@@ -4,4 +4,8 @@ public interface Drink {
   public String getName();
 
   public boolean isFizzy();
-}
+
+    public void setPrice(int priceInCents);
+    
+
+    }
